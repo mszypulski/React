@@ -1,1 +1,1 @@
-# React
+# React in a pill
